@@ -2,8 +2,8 @@
 
 I'm an aspiring developer diving into the world of programming.
 
-I've completed the [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) and 
-[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) certifications on freeCodeCamp.
+I've completed the [Responsive Web Design](https://www.freecodecamp.org/certification/EstherLein/responsive-web-design) and 
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/EstherLein/javascript-algorithms-and-data-structures-v8) certifications on freeCodeCamp.
 
 I'm excited to continue learning and to keep building projects!
 
