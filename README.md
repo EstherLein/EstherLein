@@ -11,14 +11,13 @@ I'm excited to continue learning and to keep building projects!
 
 - ✅ Responsive Web Design (Completed)
 - ✅ JavaScript Algorithms and Data Structures (Completed)
-- 🔄 Front End Development Libraries (In Progress)
-- 🔜 Back End Development and APIs
+- more to come 🔜
 
 ## 🛠️ My Projects
 
-- **[Personal Portfolio](https://github.com/yourusername/portfolio)**: A simple portfolio website showcasing my skills and projects.
-- **[JavaScript Calculator](https://github.com/yourusername/js-calculator)**: A basic calculator built using JavaScript.
-- **[Responsive Tribute Page](https://github.com/yourusername/tribute-page)**: A tribute page created as part of my freeCodeCamp journey.
+- **[Personal Portfolio](https://github.com/EstherLein/Personal-Portfolio-Webpage.git)**: A simple portfolio website showcasing my skills and projects at the time. Currently working on updating this project.
+- **[Pokemon Search App](https://github.com/EstherLein/Pokemon-Search-App.git)**: My most recent project, which allows you to search for Pokemon by their name or id. It will display a sprite and info about the Pokeomn.
+- **[Responsive Tribute Page](https://github.com/EstherLein/Tribute-Page.git)**: A tribute page created as part of my freeCodeCamp journey.
 
 ## 🚀 Let's Collaborate
 
