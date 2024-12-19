@@ -27,7 +27,7 @@ I'm always open to learning from others and collaborating on interesting project
 ## 📫 Connect with Me
 
 - Email: [esther.lein2@gmail.com](mailto:esther.lein2@gmail.co)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/esther-leinwather-52905a31a/)
 
 ## ✨ Fun Fact
 
