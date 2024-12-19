@@ -1,18 +1,8 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 ## Hi there👋, I'm Esther Leinwather!
 
 I'm an aspiring developer diving into the world of programming. 
-I've completed the [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) and [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) certifications on freeCodeCamp, 
+I've completed the [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) and 
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) certifications on freeCodeCamp, 
 and I'm excited to continue learning and building projects.
 
 ## 🌱 What I'm Learning
@@ -28,10 +18,6 @@ and I'm excited to continue learning and building projects.
 - **[JavaScript Calculator](https://github.com/yourusername/js-calculator)**: A basic calculator built using JavaScript.
 - **[Responsive Tribute Page](https://github.com/yourusername/tribute-page)**: A tribute page created as part of my freeCodeCamp journey.
 
-## ✨ Fun Fact
-
-When I'm not coding, you can find me playing video games, doing sports, or learning about natural sciences! 🚀⚛︎
-
 ## 🚀 Let's Collaborate
 
 I'm always open to learning from others and collaborating on interesting projects. Feel free to reach out or explore my repositories!
@@ -40,6 +26,10 @@ I'm always open to learning from others and collaborating on interesting project
 
 - Email: [esther.lein2@gmail.com](mailto:esther.lein2@gmail.co)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+
+## ✨ Fun Fact
+
+When I'm not coding, you can find me playing video games, doing sports, or learning about natural sciences! 🚀⚛︎
 
 
 <!--
