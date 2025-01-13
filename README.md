@@ -30,7 +30,7 @@ I'm always open to learning from others and collaborating on interesting project
 
 ## ✨ Fun Fact
 
-When I'm not coding, you can find me playing video games🎮, doing sports🏋🏻‍♂️🐎, or learning about natural sciences! 🚀⚛︎
+When I'm not coding, you can find me playing video games🎮, doing sports🏋🏻‍♂️🐎, or learning about natural sciences! 🚀
 
 
 <!--
